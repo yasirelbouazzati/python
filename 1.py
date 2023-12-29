@@ -76,10 +76,10 @@
 # Ejercicio 3.1
 # Crea una lista de números y utiliza un bucle para imprimir cada número de la lista.
 
-numeros=["1","2","3","4","5"]
+# numeros=["1","2","3","4","5"]
 
-for numero in numeros:
-    print(numero)
+# for numero in numeros:
+  #   print(numero)
 
 
 
@@ -87,10 +87,22 @@ for numero in numeros:
 # Escribe un programa que sume todos los números pares del 1 al 10 e imprima el resultado.
 
 # Funciones
+#chat = int(input("escribe un valor "))
+#num1= 10
+
+#if chat % 2 == 0:
+ #   print('el numero es par ' + str(chat + num1))
+#else:
+ #   print('el numero es impar ' + str(chat) ) 
+
 
 # Ejercicio 4.1
 # Define una función llamada cuadrado que tome un número como argumento y devuelva su cuadrado.
 # Luego, utiliza la función con un número de tu elección.
+
+
+
+
 
 # Ejercicio 4.2
 # Crea una función llamada saludo que tome el nombre de una persona como argumento
