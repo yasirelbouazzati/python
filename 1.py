@@ -93,13 +93,15 @@
 #if chat % 2 == 0:
  #   print('el numero es par ' + str(chat + num1))
 #else:
- #   print('el numero es impar ' + str(chat) ) 
+   #print('el numero es impar ' + str(chat) ) 
 
 
 # Ejercicio 4.1
 # Define una función llamada cuadrado que tome un número como argumento y devuelva su cuadrado.
 # Luego, utiliza la función con un número de tu elección.
-
+#def cuadrado(numero):
+    #return numero ** 2
+#print(cuadrado(5))
 
 
 
@@ -107,3 +109,6 @@
 # Ejercicio 4.2
 # Crea una función llamada saludo que tome el nombre de una persona como argumento
 # e imprima un mensaje de saludo personalizado.
+#def saludo (nombre):
+ #   return nombre
+#print(saludo("hola Yasir"))

@@ -1,0 +1,31 @@
+hola= "hola"
+print("hola" in + hola)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
