@@ -67,13 +67,27 @@
 
 
 
-
 # Actividad 7: Tabla de Multiplicar
 # Crea un programa que imprima la tabla de multiplicar de un número ingresado por el usuario.
+
+#chat= int(input("ingrese el numero:"))
+
+#for numero in range(1, 10):
+ #  print( f"{chat} * {numero}" )
+
+
+
 
 # Actividad 8: Ordenar una Lista
 # Pide al usuario que ingrese una lista de números y luego ordena la lista de manera ascendente.
 # Imprime la lista ordenada.
+
+
+#num1=int(input("escriba un numero: "))
+#num2=int(input("escriba otro numero: "))
+#num3=int(input("escriba ultimo numero: "))
+#result= sorted([num1, num2, num3])
+#print(result)
 
 # Actividad 9: Verificador de Palíndromos
 # Escribe un programa que verifique si una palabra ingresada por el usuario es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).
